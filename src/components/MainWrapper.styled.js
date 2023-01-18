@@ -5,7 +5,7 @@ export const MainWrapper = styled.section`
 display: flex;
 justify-content: center;
 flex-direction: column;
-width: 350px;
+width: 310px;
 margin: 10px auto;
 
  text-align: center;
